@@ -9,7 +9,7 @@
 
 > touch pre-commit_git.bash
 
-![alt text](<Снимок экрана 2024-12-27 в 13.02.54.png>)
+![alt text](<Снимок экрана 2024-12-27 в 13.02.54.png>
 #### 2. Создаем файл "pre-commit" и добавляем в него код скрипта
 >   touch pre-commit
 >   nano pre-commit
